@@ -113,14 +113,14 @@ class Card {
 
 const stack = document.getElementById("stack");
 const allImages = [
-  "/img/8618_0.jpg",
-  "/img/8616_0.jpg",
-  "/img/8617_0.jpg",
-  "/img/8619_0.jpg",
-  "/img/S__4997123_0.jpg",
-  "/img/S__4997125_0.jpg",
-  "/img/S__4997126_0.jpg",
-  "/img/S__4997127_0.jpg",
+  "./img/8618_0.jpg",
+  "./img/8616_0.jpg",
+  "./img/8617_0.jpg",
+  "./img/8619_0.jpg",
+  "./img/S__4997123_0.jpg",
+  "./img/S__4997125_0.jpg",
+  "./img/S__4997126_0.jpg",
+  "./img/S__4997127_0.jpg",
 ];
 
 const images = [...allImages];
